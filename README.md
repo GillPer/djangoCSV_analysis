@@ -19,7 +19,17 @@ This project is a Django-based web application that allows users to upload CSV f
 - NumPy
 + Matplotlib / Seaborn
 
+## Setup Instructions
+
+1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/django-csv-analysis.git
 cd django-csv-analysis
 ```
+3. Create a Virtual Environment
+4. Install Dependencies
+5. Create a Django Project
+6. Create a Django App
+7. Update `settings.py`
+8. Run the Server
+9. Access the Application
