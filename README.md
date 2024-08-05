@@ -48,6 +48,3 @@ python manage.py runserver
 ```
 14. Access the Application
 Open your web browser and navigate to `http://127.0.0.1:8000/`.
-
-![Screenshot of the Application](https://user-images.githubusercontent.com/GillPer/djangoCSV_analysis/Screenshot 2024-08-05 124947.png)
-
