@@ -50,7 +50,7 @@ python manage.py runserver
 Open your web browser and navigate to `http://127.0.0.1:8000/`.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="C:\Users\Pereira\Desktop\Screenshot 2024-08-05 124947">
- <source media="(prefers-color-scheme: light)" srcset="C:\Users\Pereira\Desktop\Screenshot 2024-08-05 124947">
- <img alt="Data Analysis" src="C:\Users\Pereira\Desktop\Screenshot 2024-08-05 124947">
+ <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1QfciAyt3WV9szoo5UfI-mRYJY42jkKp2/view?usp=drive_link">
+ <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/1QfciAyt3WV9szoo5UfI-mRYJY42jkKp2/view?usp=drive_link">
+ <img alt="Data Analysis" src="https://drive.google.com/file/d/1QfciAyt3WV9szoo5UfI-mRYJY42jkKp2/view?usp=drive_link">
 </picture>
