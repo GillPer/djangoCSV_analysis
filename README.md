@@ -49,4 +49,4 @@ python manage.py runserver
 14. Access the Application
 Open your web browser and navigate to `http://127.0.0.1:8000/`.
 
-![DATA ANALYSIS](https://drive.google.com/file/d/1QfciAyt3WV9szoo5UfI-mRYJY42jkKp2/view?usp=drive_link)
+! [DATA ANALYSIS] (https://drive.google.com/file/d/1QfciAyt3WV9szoo5UfI-mRYJY42jkKp2/view?usp=drive_link)
