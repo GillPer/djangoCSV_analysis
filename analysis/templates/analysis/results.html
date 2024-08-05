@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Analysis Results</title>
+</head>
+<body>
+    <h2>Data Analysis Results</h2>
+    <h3>Columns</h3>
+    <p>{{ columns }}</p>
+    <h3>First Few Rows</h3>
+    <div>{{ head|safe }}</div>
+    <h3>Summary Statistics</h3>
+    <div>{{ describe|safe }}</div>
+    <h3>Missing Values</h3>
+    <div>{{ missing_values }}</div>
+    <h3>Histogram</h3>
+    <img src="data:image/png;base64,{{ plot_url }}" />
+</body>
+</html>
