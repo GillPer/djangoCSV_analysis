@@ -27,9 +27,24 @@ git clone https://github.com/yourusername/django-csv-analysis.git
 cd django-csv-analysis
 ```
 3. Create a Virtual Environment
-4. Install Dependencies
-5. Create a Django Project
-6. Create a Django App
-7. Update `settings.py`
-8. Run the Server
-9. Access the Application
+```bash
+python -m venv env
+source env/bin/activate  # On Windows use `env\Scripts\activate`
+```
+5. Install Dependencies
+6. Create a Django Project
+```bash
+django-admin startproject myproject .
+```
+8. Create a Django App
+```bash
+python manage.py startapp myapp
+```
+10. Update `settings.py`
+Add `'myapp'` to the `INSTALLED_APPS` list in `myproject/settings.py`.
+12. Run the Server
+```bash
+python manage.py runserver
+```
+14. Access the Application
+Open your web browser and navigate to `http://127.0.0.1:8000/`.
