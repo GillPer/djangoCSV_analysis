@@ -18,3 +18,8 @@ This project is a Django-based web application that allows users to upload CSV f
 + Pandas
 - NumPy
 + Matplotlib / Seaborn
+
+```bash
+git clone https://github.com/yourusername/django-csv-analysis.git
+cd django-csv-analysis
+```
