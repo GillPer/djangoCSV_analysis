@@ -13,8 +13,8 @@ This project is a Django-based web application that allows users to upload CSV f
 
 ## Requirements
 
-Python 3.x
-Django
-Pandas
-NumPy
-Matplotlib or Seaborn
++Python 3.x
++Django, 
++Pandas, 
++NumPy, 
++Matplotlib / Seaborn
