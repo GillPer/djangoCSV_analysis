@@ -48,3 +48,9 @@ python manage.py runserver
 ```
 14. Access the Application
 Open your web browser and navigate to `http://127.0.0.1:8000/`.
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="C:\Users\Pereira\Desktop">
+ <source media="(prefers-color-scheme: light)" srcset="C:\Users\Pereira\Desktop">
+ <img alt="Data Analysis" src="C:\Users\Pereira\Desktop">
+</picture>
